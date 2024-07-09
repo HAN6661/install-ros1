@@ -47,6 +47,11 @@ The desktop-full installation includes a wide array of tools and libraries, incl
 sudo apt install ros-noetic-ros-base
 
 ```
+
+
+![Screenshot 2024-07-09 215747](https://github.com/HAN6661/install-ros1-and-ros-2/assets/173714836/efeefb43-30b3-42de-bed9-1cee546d17be)
+
+
 ### 4- Initialize rosdep:rosdep is a command-line tool for installing system dependencies for the source you want to compile.
 
 ```
@@ -93,7 +98,7 @@ roscoer
 ```
 If roscore starts without errors, your ROS Noetic installation is successfully set up.
 
-
+<img src="https://github.com/HAN6661/install-ros1-and-ros-2/assets/173714836/4e19d5b9-bd18-4aa1-8eab-4d501f3c8783.jpg" width="50%" height="50%">
 
 # install-ros2-foxy
 ROS 2 Foxy Fitzroy is a Long-Term Support (LTS) release designed for Ubuntu 20.04. It provides enhanced performance, improved security, and real-time capabilities for robotics development. Foxy supports a wider range of platforms and promotes modular and scalable software design, making it ideal for both research and industrial applications.
